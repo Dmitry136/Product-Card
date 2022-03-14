@@ -1,1 +1,3 @@
-console.log(22);
+"use strict";
+
+console.log('Hello!')
